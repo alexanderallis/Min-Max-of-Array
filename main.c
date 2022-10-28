@@ -2,6 +2,7 @@
 #include <math.h>
 
 /*
+ * Alexander Allis
  * Finds the minimum and maximum value of an array.
  * The size of the array must be a power of 2.
  */
