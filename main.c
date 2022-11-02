@@ -1,11 +1,13 @@
 #include <stdio.h>
 #include <math.h>
+#include <stdbool.h>
 
 /*
  * Alexander Allis
  * Finds the minimum and maximum value of an array.
  * The size of the array must be a power of 2.
  */
+
 
 struct pair {
     int min;
